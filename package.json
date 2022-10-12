@@ -1,0 +1,24 @@
+{
+  "name": "nftgenerator",
+  "version": "1.0.0",
+  "description": "nft generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nft",
+    "random",
+    "generator"
+  ],
+  "author": "silvak",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.10.1",
+    "merge-images": "^2.0.0",
+    "node-canvas": "^2.9.0",
+    "random-images": "^1.0.0",
+    "random-js": "^2.1.0",
+    "sha1": "^1.1.1"
+  }
+}
